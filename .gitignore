@@ -1,5 +1,10 @@
 .env
 .venv
+logs
 __pycache__
 *.pyc
+.ipynb_checkpoints
+.DS_Store
+scripts/cron_run_pipeline.local.sh
+scripts/env_local.sh
 .ipynb_checkpointsnul not found

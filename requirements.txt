@@ -3,3 +3,4 @@ pandas
 psycopg
 prefect
 sqlmeshnul not found
+python-dotenv
