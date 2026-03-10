@@ -96,8 +96,6 @@ docs/screenshots/rebalance_arrows_2026/10/03_19:38.png
 5. Rebalancing suggestions table  
 docs/rebalancing_suggestions_top20_2026/10/03_19:38.csv
 
-Tip: if you want the images to render directly on GitHub, use the image syntax below and replace the filenames with your latest run.
-
 City health  
 ![City health](docs/screenshots/city_health_hourly_2026/10/03_19:38.png)
 
